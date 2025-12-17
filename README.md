@@ -1,34 +1,55 @@
+﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 # Generative UI Pattern Engine
 
-🚀 AI-assisted deterministic UI component generator.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 
-## 🔍 Why this project exists
+ðŸš€ AI-assisted deterministic UI component generator.
+
+## ðŸ” Why this project exists
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
 
-## ✨ Features
-- 🚀 Production-ready architecture
-- 🎨 Premium UI/UX design system
-- ♿ WCAG AA Accessible
-- 📱 Fully Responsive
-- ⚡ Optimized Performance
+## âœ¨ Features
 
-## 🧠 Architecture
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
+- ðŸš€ Production-ready architecture
+- ðŸŽ¨ Premium UI/UX design system
+- â™¿ WCAG AA Accessible
+- ðŸ“± Fully Responsive
+- âš¡ Optimized Performance
+
+## ðŸ§  Architecture
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 Built with clean separation of concerns and modern design patterns.
 
-## 🚀 Live Demo
+## ðŸš€ Live Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 [Deployment Link Placeholder]
 
-## 📦 Installation
+## ðŸ“¦ Installation
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 ```bash
 npm install
 npm run dev
 ```
 
-## 🛠 Tech Stack
-AST • Design Systems • AI
+## ðŸ›  Tech Stack
 
-## 📈 SEO Keywords
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
+AST â€¢ Design Systems â€¢ AI
+
+## ðŸ“ˆ SEO Keywords
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 ai ui generator, design system automation
 
-## 📄 License
+## ðŸ“„ License
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
 MIT
+
+
