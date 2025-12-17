@@ -1,55 +1,49 @@
 ﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
+
+<div align="center">
+
 # Generative UI Pattern Engine
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-
-ðŸš€ AI-assisted deterministic UI component generator.
-
-## ðŸ” Why this project exists
+**AI that writes code so you don't have to.**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## âœ¨ Features
+</div>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-- ðŸš€ Production-ready architecture
-- ðŸŽ¨ Premium UI/UX design system
-- â™¿ WCAG AA Accessible
-- ðŸ“± Fully Responsive
-- âš¡ Optimized Performance
+## ðŸ“– Overview
+An experimental engine that generates React component code based on high-level design constraints. It uses deterministic rules combined with generative patterns to create UI systems.
 
-## ðŸ§  Architecture
+## âœ¨ Key Features
+- **AST Generation:** Outputs valid JSX code.
+- **Style Injection:** Scoped CSS generation.
+- **Component Preview:** Live rendering.
+- **Exportable:** Copy-paste ready code.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-Built with clean separation of concerns and modern design patterns.
+## ðŸ› ï¸ Technical Stack
+**React, Babel AST, GPT-Integration Patterns**
 
-## ðŸš€ Live Demo
+## ðŸš€ Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-[Deployment Link Placeholder]
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-## ðŸ“¦ Installation
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-```bash
+### Installation
+`ash
+git clone https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine.git
+cd generative-ui-pattern-engine
 npm install
 npm run dev
-```
+`
 
-## ðŸ›  Tech Stack
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-AST â€¢ Design Systems â€¢ AI
-
-## ðŸ“ˆ SEO Keywords
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-ai ui generator, design system automation
+## ðŸ¤ Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ðŸ“„ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/generative-ui-pattern-engine)
-MIT
-
-
+---
+<div align="center">
+  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+</div>
